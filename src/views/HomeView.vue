@@ -10,7 +10,7 @@
             :bgColor.sync="bgColor"
         />
 
-        <button @click="handleReset">清空画板2</button>
+        <button @click="handleReset">清空画板1</button>
 
         <button @click="handleGenerate">生成图片3</button>
     </div>
